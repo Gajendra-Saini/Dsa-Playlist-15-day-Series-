@@ -1,0 +1,7 @@
+Generalation means like we have swift ,fortunar,innova,bmw but there is a generalize term car so this is meaning of Generalation 
+
+specification means we have that design and we make new things based on that design that is specification. like innova parent of fortunar so innova is a specify term and many design copy this and make new things.
+
+Means ther is two types of inheritence one is generalization that is also called polymorphism and another is specificatipon that is simple inheritence
+
+same object and different thing it is polymorphism like car has some this is other thing is copy of this
